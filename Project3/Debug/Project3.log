@@ -1,4 +1,0 @@
-﻿  Project3.cpp
-f:\project3\project3.cpp(63): warning C4715: 'remove': not all control paths return a value
-  Project3.vcxproj -> F:\Project3\Debug\Project3.exe
-  Project3.vcxproj -> F:\Project3\Debug\Project3.pdb (Partial PDB)
